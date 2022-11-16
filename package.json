@@ -1,0 +1,16 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "colors_hw": "node colors_hw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MatTwix",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
