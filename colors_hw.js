@@ -2,7 +2,6 @@
 const colors = require('colors/safe');
 
 const [num1, num2] = process.argv.splice(2);
-let currentNumber = 0;
 let arrOfNums = [];
 
 const getInterval = (a, b) => {
