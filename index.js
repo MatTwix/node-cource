@@ -1,3 +1,4 @@
 console.log('index');
 
-//Для запуска скрипта использовать npm run colors_hw (число 1) (число 2)
+//Первое дз: npm run colors_hw (число 1) (число 2)
+//Второе дз: npm run timer_hw (дата)
