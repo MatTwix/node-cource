@@ -1,5 +1,5 @@
 // у меня проблема с цветами (мне сложно отличить желтый от зеленого), поэтому я буду использовать вместо зеленого цвета синий
-const colors = require('colors/safe');
+import colors from 'colors/safe.js'
 
 const [num1, num2] = process.argv.splice(2);
 let arrOfNums = [];

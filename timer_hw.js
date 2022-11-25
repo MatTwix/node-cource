@@ -45,7 +45,7 @@ const generateNewTime = () => delay(1000).then(() => new Timer(requestTypes[time
 class Handler {
     static startTimer() {
         console.log(getDateInHumanForm(timeLeft));
-        timeLeft = new Date(...pointTime) - new Date() - 1000 * 60 * 33;
+        timeLeft = new Date(...pointTime) - new Date();
     }
     static timeIsUp(payload) {
         console.log(payload);
