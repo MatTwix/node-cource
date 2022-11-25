@@ -8,6 +8,7 @@
     "dev": "node index.js",
     "colors_hw": "node colors_hw.js",
     "timer_hw": "node timer_hw.js",
+    "find_ip_hw": "node find_ip_hw.js",
     "mfc": "node mfc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
