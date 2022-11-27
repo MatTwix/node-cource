@@ -9,12 +9,15 @@
     "colors_hw": "node colors_hw.js",
     "timer_hw": "node timer_hw.js",
     "find_ip_hw": "node find_ip_hw.js",
+    "cli_find_ip_hw": "node cli_find_ip_hw.js",
     "mfc": "node mfc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MatTwix",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.4",
+    "yargs": "^17.6.2"
   }
 }
